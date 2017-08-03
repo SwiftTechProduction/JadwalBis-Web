@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/Bis_Server/NewWebService?wsdl" uri="src/conf/xml-resources/web-service-references/NewWebService/wsdl/localhost_8080/Bis_Server/NewWebService.wsdl"/>
+    <system systemId="http://localhost:8080/Bis_Server/NewWebService?xsd=1" uri="src/conf/xml-resources/web-service-references/NewWebService/wsdl/localhost_8080/Bis_Server/NewWebService.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/Bis_Server/BisService?wsdl" uri="src/conf/xml-resources/web-service-references/BisService/wsdl/localhost_8080/Bis_Server/BisService.wsdl"/>
+    <system systemId="http://localhost:8080/Bis_Server/BisService?xsd=1" uri="src/conf/xml-resources/web-service-references/BisService/wsdl/localhost_8080/Bis_Server/BisService.xsd_1.xsd"/>
+</catalog>
